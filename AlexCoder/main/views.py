@@ -7,3 +7,9 @@ def index(request):
 def new(request):
     return render(request,'main/new.html')
 
+def next(request):
+    return render(request,'main/next.html')
+
+def futor(request):
+    return render(request,'main/futor.html')
+

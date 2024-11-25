@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="497a1213-6a40-45a2-a929-7d39282f350c" name="Changes" comment="add 9 files">
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/static/main/img/gagarin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/next.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/futor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/sec.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlexCoder/AlexCoder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlexCoder/AlexCoder/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlexCoder/AlexCoder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlexCoder/AlexCoder/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlexCoder/main/templates/main/next.html" beforeDir="false" afterPath="$PROJECT_DIR$/AlexCoder/main/templates/main/next.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlexCoder/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlexCoder/main/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlexCoder/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlexCoder/main/views.py" afterDir="false" />
     </list>
@@ -112,10 +106,27 @@
       <option name="project" value="LOCAL" />
       <updated>1732311389973</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 9 files">
+      <option name="closed" value="true" />
+      <created>1732569169482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732569169483</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add 9 files">
+      <option name="closed" value="true" />
+      <created>1732571134504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732571134504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files" />
     <MESSAGE value="add 9 files" />
     <option name="LAST_COMMIT_MESSAGE" value="add 9 files" />
   </component>
