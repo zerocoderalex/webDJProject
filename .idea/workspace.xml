@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="497a1213-6a40-45a2-a929-7d39282f350c" name="Changes" comment="add 2 and 5 files" />
+    <list default="true" id="497a1213-6a40-45a2-a929-7d39282f350c" name="Changes" comment="add 2  files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +65,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kungu\PycharmProjects\webDJProject\AlexCoder" />
       <recent name="C:\Users\kungu\PycharmProjects\webDJProject\AlexCoder\main\static\main\img" />
     </key>
   </component>
@@ -156,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732737725092</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add 2  files">
+      <option name="closed" value="true" />
+      <created>1732737957242</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732737957242</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +173,7 @@
     <MESSAGE value="add 9 files" />
     <MESSAGE value="add 3 files" />
     <MESSAGE value="add 2 and 5 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2 and 5 files" />
+    <MESSAGE value="add 2  files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2  files" />
   </component>
 </project>

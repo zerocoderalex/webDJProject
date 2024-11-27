@@ -1,0 +1,40 @@
+Index: AlexCoder/main/views.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from django.shortcuts import render\r\nfrom django.http import HttpResponse\r\n# Create your views here.\r\ndef index(request):\r\n    return HttpResponse(\"<h1>Это мой первый проект на Django</h1>\")\r\n\r\ndef data(request):\r\n    return HttpResponse(\"<h1>Это данные на Django</h1>\")\r\n\r\ndef test(request):\r\n    return HttpResponse(\"<h1>Это тест на Django</h1>\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/AlexCoder/main/views.py b/AlexCoder/main/views.py
+--- a/AlexCoder/main/views.py	(revision e9bb3275f1ba79e96baa27081ef2c6f3bc079972)
++++ b/AlexCoder/main/views.py	(date 1732556545934)
+@@ -2,7 +2,7 @@
+ from django.http import HttpResponse
+ # Create your views here.
+ def index(request):
+-    return HttpResponse("<h1>Это мой первый проект на Django</h1>")
++    return render(request,'main/index.html')
+ 
+ def data(request):
+     return HttpResponse("<h1>Это данные на Django</h1>")
+Index: AlexCoder/main/templates/main/index.html
+===================================================================
+diff --git a/AlexCoder/main/templates/main/index.html b/AlexCoder/main/templates/main/index.html
+new file mode 100644
+--- /dev/null	(date 1732557047710)
++++ b/AlexCoder/main/templates/main/index.html	(date 1732557047710)
+@@ -0,0 +1,13 @@
++<!doctype html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport"
++          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
++    <meta http-equiv="X-UA-Compatible" content="ie=edge">
++    <title>Первая страница</title>
++</head>
++<body>
++<h1>Урок Django 2</h1>
++</body>
++</html>
+\ No newline at end of file
