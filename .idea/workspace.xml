@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="497a1213-6a40-45a2-a929-7d39282f350c" name="Changes" comment="add 2  files" />
+    <list default="true" id="497a1213-6a40-45a2-a929-7d39282f350c" name="Changes" comment="add 3  files">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +69,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kungu\PycharmProjects\webDJProject" />
       <recent name="C:\Users\kungu\PycharmProjects\webDJProject\AlexCoder" />
       <recent name="C:\Users\kungu\PycharmProjects\webDJProject\AlexCoder\main\static\main\img" />
     </key>
@@ -165,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732737957242</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add 3  files">
+      <option name="closed" value="true" />
+      <created>1732738468332</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732738468332</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add 3  files">
+      <option name="closed" value="true" />
+      <created>1732738501713</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732738501713</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +195,7 @@
     <MESSAGE value="add 3 files" />
     <MESSAGE value="add 2 and 5 files" />
     <MESSAGE value="add 2  files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2  files" />
+    <MESSAGE value="add 3  files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3  files" />
   </component>
 </project>
